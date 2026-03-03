@@ -1,4 +1,4 @@
-<p align="left">🔭 I’m currently working on<br>    🌱 I’m currently learning through KodeKloud and zerotomastery<br>    👯 I’m looking to collaborate on Devops Projects<br>    💬 Ask me about ...<br>    📫 How to reach me: ioanniskokkinis@proton.me<br>    😄 Pronouns: he/him</p>
+<p align="left">🔭 I’m currently working on my education<br>    🌱 I’m currently learning through KodeKloud and zerotomastery<br>    👯 I’m looking to collaborate on Devops Projects<br>    💬 Ask me about ...<br>    📫 How to reach me: ioanniskokkinis@proton.me<br>    😄 Pronouns: he/him</p>
 
 ###
 
