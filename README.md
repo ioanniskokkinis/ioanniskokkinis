@@ -1,4 +1,4 @@
-<p align="left">🔭 I’m currently working on<br>    🌱 I’m currently learning System Design<br>    👯 I’m looking to collaborate on Devops Projects<br>    💬 Ask me about ...<br>    📫 How to reach me: ioanniskokkinis@proton.me<br>    😄 Pronouns: he/him</p>
+<p align="left">🔭 I’m currently working on<br>    🌱 I’m currently learning through KodeKloud and zerotomastery<br>    👯 I’m looking to collaborate on Devops Projects<br>    💬 Ask me about ...<br>    📫 How to reach me: ioanniskokkinis@proton.me<br>    😄 Pronouns: he/him</p>
 
 ###
 
@@ -21,6 +21,10 @@
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
 </div>
 
 ###
